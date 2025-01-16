@@ -4,24 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e0dbd32-3e12-4bef-aa73-40857909d75b" name="Changes" comment="feat(button): particle-button&#10;&#10;添加了粒子特效按钮">
+    <list default="true" id="0e0dbd32-3e12-4bef-aa73-40857909d75b" name="Changes" comment="feat(package.json): 修改了作者信息">
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_16_Jan_2025_11_17_[Changes]/shelved.patch" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="CSS File" />
-        <option value="SCSS File" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -36,31 +33,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "list.type.of.created.stylesheet": "SCSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "npm.build:ui.executor": "Run",
-    "npm.button > build.executor": "Run",
-    "npm.clean:type.executor": "Run",
-    "npm.demo > dev.executor": "Run",
-    "npm.docs > dev.executor": "Run",
-    "npm.input > build.executor": "Run",
-    "npm.mv-type.executor": "Run",
-    "npm.shared > build.executor": "Run",
-    "npm.type:node.executor": "Run",
-    "npm.type:src.executor": "Run",
-    "npm.ui > build.executor": "Run",
-    "ts.external.directory.path": "D:\\App\\openx-ui-chapter02\\zdesign\\node_modules\\typescript\\lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.build:ui.executor&quot;: &quot;Run&quot;,
+    &quot;npm.button &gt; build.executor&quot;: &quot;Run&quot;,
+    &quot;npm.clean:type.executor&quot;: &quot;Run&quot;,
+    &quot;npm.demo &gt; dev.executor&quot;: &quot;Run&quot;,
+    &quot;npm.docs &gt; dev.executor&quot;: &quot;Run&quot;,
+    &quot;npm.input &gt; build.executor&quot;: &quot;Run&quot;,
+    &quot;npm.mv-type.executor&quot;: &quot;Run&quot;,
+    &quot;npm.shared &gt; build.executor&quot;: &quot;Run&quot;,
+    &quot;npm.type:node.executor&quot;: &quot;Run&quot;,
+    &quot;npm.type:src.executor&quot;: &quot;Run&quot;,
+    &quot;npm.ui &gt; build.executor&quot;: &quot;Run&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\App\\openx-ui-chapter02\\zdesign\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="npm.build:ui">
+}</component>
+  <component name="RunManager" selected="npm.demo &gt; dev">
     <configuration name="build:ui" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -113,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.build:ui" />
         <item itemvalue="npm.demo &gt; dev" />
         <item itemvalue="npm.button &gt; build" />
         <item itemvalue="npm.ui &gt; build" />
         <item itemvalue="npm.input &gt; build" />
+        <item itemvalue="npm.build:ui" />
       </list>
     </recent_temporary>
   </component>
@@ -139,15 +135,6 @@
       <workItem from="1736950822328" duration="1807000" />
       <workItem from="1736952831732" duration="6551000" />
     </task>
-    <task id="LOCAL-00001" summary="feat(button): particle-button&#10;&#10;添加了粒子特效按钮">
-      <option name="closed" value="true" />
-      <created>1736995104650</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1736995104650</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,9 +145,31 @@
       </list>
     </option>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="项目初始化" />
-    <MESSAGE value="feat(button): particle-button&#10;&#10;添加了粒子特效按钮" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(button): particle-button&#10;&#10;添加了粒子特效按钮" />
+    <MESSAGE value="feat(package.json): 修改了作者信息" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(package.json): 修改了作者信息" />
   </component>
 </project>

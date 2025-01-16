@@ -1,0 +1,62 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"0e0dbd32-3e12-4bef-aa73-40857909d75b\" name=\"Changes\" comment=\"\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;customColor&quot;: &quot;&quot;,\r\n  &quot;associatedIndex&quot;: 4\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2rfWsYR9U7gySRPSY5ulqfuplZh\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"npm.build:ui.executor\": \"Run\",\r\n    \"npm.button > build.executor\": \"Run\",\r\n    \"npm.clean:type.executor\": \"Run\",\r\n    \"npm.demo > dev.executor\": \"Run\",\r\n    \"npm.docs > dev.executor\": \"Run\",\r\n    \"npm.input > build.executor\": \"Run\",\r\n    \"npm.mv-type.executor\": \"Run\",\r\n    \"npm.shared > build.executor\": \"Run\",\r\n    \"npm.type:node.executor\": \"Run\",\r\n    \"npm.type:src.executor\": \"Run\",\r\n    \"npm.ui > build.executor\": \"Run\",\r\n    \"ts.external.directory.path\": \"D:\\\\App\\\\openx-ui-chapter02\\\\zdesign\\\\node_modules\\\\typescript\\\\lib\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RunManager\" selected=\"npm.button &gt; build\">\r\n    <configuration name=\"build:ui\" type=\"js.build_tools.npm\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <package-json value=\"$PROJECT_DIR$/package.json\" />\r\n      <command value=\"run\" />\r\n      <scripts>\r\n        <script value=\"build:ui\" />\r\n      </scripts>\r\n      <node-interpreter value=\"project\" />\r\n      <envs />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"button &gt; build\" type=\"js.build_tools.npm\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <package-json value=\"$PROJECT_DIR$/packages/button/package.json\" />\r\n      <command value=\"run\" />\r\n      <scripts>\r\n        <script value=\"build\" />\r\n      </scripts>\r\n      <node-interpreter value=\"project\" />\r\n      <envs />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"demo &gt; dev\" type=\"js.build_tools.npm\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <package-json value=\"$PROJECT_DIR$/demo/package.json\" />\r\n      <command value=\"run\" />\r\n      <scripts>\r\n        <script value=\"dev\" />\r\n      </scripts>\r\n      <node-interpreter value=\"project\" />\r\n      <envs />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"input &gt; build\" type=\"js.build_tools.npm\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <package-json value=\"$PROJECT_DIR$/packages/input/package.json\" />\r\n      <command value=\"run\" />\r\n      <scripts>\r\n        <script value=\"build\" />\r\n      </scripts>\r\n      <node-interpreter value=\"project\" />\r\n      <envs />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"ui &gt; build\" type=\"js.build_tools.npm\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <package-json value=\"$PROJECT_DIR$/packages/ui/package.json\" />\r\n      <command value=\"run\" />\r\n      <scripts>\r\n        <script value=\"build\" />\r\n      </scripts>\r\n      <node-interpreter value=\"project\" />\r\n      <envs />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"npm.button &gt; build\" />\r\n        <item itemvalue=\"npm.ui &gt; build\" />\r\n        <item itemvalue=\"npm.demo &gt; dev\" />\r\n        <item itemvalue=\"npm.input &gt; build\" />\r\n        <item itemvalue=\"npm.build:ui\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.17890.13\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"0e0dbd32-3e12-4bef-aa73-40857909d75b\" name=\"Changes\" comment=\"\" />\r\n      <created>1736950820424</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1736950820424</updated>\r\n      <workItem from=\"1736950822328\" duration=\"1807000\" />\r\n      <workItem from=\"1736952831732\" duration=\"6551000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n    <option name=\"exactExcludedFiles\">\r\n      <list>\r\n        <option value=\"$PROJECT_DIR$/packages/ui/src/index.js\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 08ff3af65efde1d302983c55bd9df8555e691a20)
++++ b/.idea/workspace.xml	(date 1736997443689)
+@@ -19,29 +19,29 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "node.js.detected.package.eslint": "true",
+-    "node.js.detected.package.tslint": "true",
+-    "node.js.selected.package.eslint": "(autodetect)",
+-    "node.js.selected.package.tslint": "(autodetect)",
+-    "nodejs_package_manager_path": "npm",
+-    "npm.build:ui.executor": "Run",
+-    "npm.button > build.executor": "Run",
+-    "npm.clean:type.executor": "Run",
+-    "npm.demo > dev.executor": "Run",
+-    "npm.docs > dev.executor": "Run",
+-    "npm.input > build.executor": "Run",
+-    "npm.mv-type.executor": "Run",
+-    "npm.shared > build.executor": "Run",
+-    "npm.type:node.executor": "Run",
+-    "npm.type:src.executor": "Run",
+-    "npm.ui > build.executor": "Run",
+-    "ts.external.directory.path": "D:\\App\\openx-ui-chapter02\\zdesign\\node_modules\\typescript\\lib",
+-    "vue.rearranger.settings.migration": "true"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
++    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
++    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
++    &quot;npm.build:ui.executor&quot;: &quot;Run&quot;,
++    &quot;npm.button &gt; build.executor&quot;: &quot;Run&quot;,
++    &quot;npm.clean:type.executor&quot;: &quot;Run&quot;,
++    &quot;npm.demo &gt; dev.executor&quot;: &quot;Run&quot;,
++    &quot;npm.docs &gt; dev.executor&quot;: &quot;Run&quot;,
++    &quot;npm.input &gt; build.executor&quot;: &quot;Run&quot;,
++    &quot;npm.mv-type.executor&quot;: &quot;Run&quot;,
++    &quot;npm.shared &gt; build.executor&quot;: &quot;Run&quot;,
++    &quot;npm.type:node.executor&quot;: &quot;Run&quot;,
++    &quot;npm.type:src.executor&quot;: &quot;Run&quot;,
++    &quot;npm.ui &gt; build.executor&quot;: &quot;Run&quot;,
++    &quot;ts.external.directory.path&quot;: &quot;D:\\App\\openx-ui-chapter02\\zdesign\\node_modules\\typescript\\lib&quot;,
++    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RunManager" selected="npm.button &gt; build">
+     <configuration name="build:ui" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+       <package-json value="$PROJECT_DIR$/package.json" />
