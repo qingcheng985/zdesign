@@ -1,6 +1,7 @@
 {
-  "name": "z-design",
-  "private": true,
+  "name": "@zhengjiajun/z-design",
+  "version": "1.0.0",
+  "author": "郑嘉俊",
   "scripts": {
     "clean:type": "rimraf ./dist",
     "type:node": "tsc -p tsconfig.node.json --noEmit --composite false",
