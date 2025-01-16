@@ -1,0 +1,44 @@
+@use 'sass:math';
+
+/* 公共按钮样式 Mixin */
+@mixin button-base($bg-color,
+                   $text-color: white,
+                   $border-color: $bg-color,
+                   $hover-bg: null,
+                   $active-bg: null,
+                   $disabled-bg: #ddd) {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  padding: 12px 24px;
+  font-size: 16px;
+  border: 2px solid $border-color;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  outline: none;
+  text-align: center;
+  box-sizing: border-box;
+  background-color: $bg-color;
+  color: $text-color;
+
+  &:hover {
+    opacity: 0.8;
+    background-color: $hover-bg;
+    transform: translateY(-2px);
+  }
+
+  &:active {
+    opacity: 0.6;
+    background-color: $active-bg;
+    transform: translateY(1px);
+  }
+
+  &:disabled {
+    background-color: $disabled-bg;
+    color: #aaa;
+    border-color: $disabled-bg;
+    cursor: not-allowed;
+    opacity: 0.6;
+  }
+}

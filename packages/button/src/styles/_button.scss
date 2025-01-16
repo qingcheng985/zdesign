@@ -1,0 +1,78 @@
+/* _button.scss */
+
+/* 引入公共按钮样式的 Mixin */
+@import 'mixin.scss';
+
+/* 按钮样式 */
+.z-button {
+
+  /* 使用 mixin 进行公共样式设置 */
+  @include button-base(
+                  var(--bg-color, #007bff),
+                  var(--text-color, white),
+                  var(--border-color, #007bff),
+                  var(--hover-bg-color, #0056b3),
+                  var(--active-bg-color, #004085)
+  );
+
+  &--primary {
+    /* 传入自定义颜色，否则使用默认颜色 */
+    @include button-base(
+                    var(--bg-color, #007bff),
+                    var(--text-color, white),
+                    var(--border-color, #007bff),
+                    var(--hover-bg-color, #0056b3),
+                    var(--active-bg-color, #004085)
+    );
+  }
+
+  &--secondary {
+    @include button-base(
+                    var(--bg-color, #6c757d),
+                    var(--text-color, white),
+                    var(--border-color, #6c757d),
+                    var(--hover-bg-color, #5a6268),
+                    var(--active-bg-color, #545b62)
+    );
+  }
+
+  &--success {
+    @include button-base(
+                    var(--bg-color, #28a745),
+                    var(--text-color, white),
+                    var(--border-color, #28a745),
+                    var(--hover-bg-color, #218838),
+                    var(--active-bg-color, #1e7e34)
+    );
+  }
+
+  &--danger {
+    @include button-base(
+                    var(--bg-color, #dc3545),
+                    var(--text-color, white),
+                    var(--border-color, #dc3545),
+                    var(--hover-bg-color, #c82333),
+                    var(--active-bg-color, #bd2130)
+    );
+  }
+
+  &--outline {
+    @include button-base(
+                    var(--bg-color, transparent),
+                    var(--text-color, #007bff),
+                    var(--border-color, #007bff),
+                    var(--hover-bg-color, #007bff),
+                    var(--active-bg-color, #0056b3)
+    );
+
+    &:hover {
+      background-color: var(--hover-bg-color, #007bff);
+      color: white;
+    }
+
+    &:active {
+      background-color: var(--active-bg-color, #0056b3);
+      color: white;
+    }
+  }
+}
