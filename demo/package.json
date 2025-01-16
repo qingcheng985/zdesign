@@ -1,0 +1,12 @@
+{
+  "name": "@zdesign/demo",
+  "private": true,
+  "scripts": {
+    "dev": "vite dev"
+  },
+  "dependencies": {
+    "@zdesign/ui": "workspace:^"
+  },
+  "devDependencies": {
+  }
+}
